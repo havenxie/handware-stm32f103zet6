@@ -74,3 +74,7 @@
 ### 下载后Altium Designer 打开，我用的是AD10
 
 #### 转载请注明出处
+
+## 许可
+
+[MIT](./LICENSE) &copy; [havenxie](http://github.com/havenxie)
